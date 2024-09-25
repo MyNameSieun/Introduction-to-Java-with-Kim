@@ -1,4 +1,4 @@
-package _07_Scanner;
+package _07_Scanner.ex;
 
 public class ScannerEX5 {
     public static void main(String[] args) {

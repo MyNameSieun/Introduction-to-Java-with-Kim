@@ -1,5 +1,5 @@
 
-package _07_Scanner;
+package _07_Scanner.ex;
 
 import java.util.Scanner;
 
